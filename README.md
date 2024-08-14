@@ -1,13 +1,9 @@
 ---
 
-![Banner](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
+![Banner](https://raw.githubusercontent.com/Namir-Khan/Namir-Khan/main/Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Namir Khan</h1>
 <h3 align="center">A passionate developer specializing in edge computing, cloud computing, DevOps, and Docker. My technical expertise includes building and deploying machine learning models with Scikit-learn and TensorFlow, and developing robust web applications using Django.</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=namir-khan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 ---
 
@@ -123,6 +119,10 @@
 ### 📈 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namir-khan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=namir-khan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
